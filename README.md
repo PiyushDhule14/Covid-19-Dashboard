@@ -1,1 +1,2 @@
 # Covid-19-Dashboard
+The COVID-19 dashboard for the years 2020-2021 provides comprehensive insights into the global pandemic's impact through a rich dataset. It presents a detailed analysis of key metrics such as confirmed cases, deaths, recoveries, and vaccination rates across different regions and time periods. The dashboard utilizes interactive visualizations, including charts and trend analyses, to facilitate easy interpretation and exploration of the data.
